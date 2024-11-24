@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tml411@msstate.edu'
     label: E-mail Me
-  - icon: assets/media/icons/gcer_logo.png
+  - icon: assets/media/icons/gcer_logo.svg
     url: https://www.gcerlab.com/
-  - icon: assets/media/icons/msu.png
+  - icon: assets/media/icons/msu.svg
     url: https://www.msstate.edu/
   - icon: brands/github
     url: https://github.com/thaimunhoz
@@ -43,7 +43,7 @@ profiles:
     url: https://www.linkedin.com/in/thainara-munhoz/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=DZhlmp8AAAAJ&hl=pt-BR
-  - icon: assets/media/icons/labisa.png
+  - icon: assets/media/icons/labisa.svg
     url: https://www.dpi.inpe.br/labisa/en/
 
 interests:
@@ -55,7 +55,7 @@ interests:
 education:
   - area: PhD Student in Biosystems Engineering
     institution: Mississippi State University
-    date_start: 2024-08
+    date_start: 2024-08-15
     summary: |
       NASA Early Career Research Fellow
     button:
@@ -75,21 +75,21 @@ work:
   - position: Graduate Assistant
     company_name: Mississippi State University
     company_url: 'https://www.msstate.edu/'
-    company_logo: 'assets/media/icons/msu.png'
+    company_logo: 'assets/media/icons/msu.svg'
   - position: GIS Analyst
     company_name: Agrotools
     company_url: 'https://agrotools.com.br/en/'
-    company_logo: 'assets/media/icons/agt_logo.png'
-    date_start: 2023-10
-    date_end: 2024-07
+    company_logo: 'assets/media/icons/agt_logo.svg'
+    date_start: 2023-10-01
+    date_end: 2024-07-01
     summary: |
       Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
   - position: GIS Analyst
     company_name: Agrotools
     company_url: 'https://agrotools.com.br/en/'
-    company_logo: 'assets/media/icons/agt_logo.png'
-    date_start: 2023-10
-    date_end: 2024-07
+    company_logo: 'assets/media/icons/agt_logo.svg'
+    date_start: 2023-10-01
+    date_end: 2024-07-01
     summary: |
       Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
 
