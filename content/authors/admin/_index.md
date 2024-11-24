@@ -35,77 +35,63 @@ profiles:
     label: E-mail Me
   - icon: assets/media/icons/gcer_logo.png
     url: https://www.gcerlab.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: assets/media/icons/msu.png
+    url: https://www.msstate.edu/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/thaimunhoz
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/thainara-munhoz/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=DZhlmp8AAAAJ&hl=pt-BR
+  - icon: assets/media/icons/labisa.png
+    url: https://www.dpi.inpe.br/labisa/en/
 
 interests:
+  - Satellite image processing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Water Resource
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Student in Biosystems Engineering
+    institution: Mississippi State University
+    date_start: 2024/08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      NASA Early Career Research Fellow
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'GCER Lab'
+      url: 'https://www.gcerlab.com/'
+  - area: M.S. in Remote Sensing
+    institution: National Institute for Space Research
+    date_start: 2020
+    date_end: 2022
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Mapping of cyanobacteria in the Promissão Reservoir by multispectral and hyperspectral images
+  - area: B.S. in Geomatics Engineering
+    institution: São Paulo State University
+    date_start: 2020
+    date_end: 2016
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Graduate Assistant
+    company_name: Mississippi State University
+    company_url: 'https://www.msstate.edu/'
+    company_logo: 'assets/media/icons/msu.png'
+  - position: GIS Analyst
+    company_name: Agrotools
+    company_url: 'https://agrotools.com.br/en/'
+    company_logo: 'assets/media/icons/agt_logo.png'
+    date_start: 2023/10
+    date_end: 2024/07
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
+  - position: GIS Analyst
+    company_name: Agrotools
+    company_url: 'https://agrotools.com.br/en/'
+    company_logo: 'assets/media/icons/agt_logo.png'
+    date_start: 2023/10
+    date_end: 2024/07
+    summary: |
+      Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +169,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I hold a bachelor’s degree in Cartography and Surveying Engineering from the University of São Paulo State, Brazil, where I began exploring satellite positioning (GNSS), atmospheric modeling, and remote sensing studies. My academic journey has taken me across borders: I’ve worked with research groups at the University of New Brunswick, and the National Research Council of Italy (CNR-IREA), where I applied hyperspectral sensors and machine learning algorithms to dive into inland waters remote sensing. I also earned a master’s degree in Remote Sensing from Brazil’s National Institute for Space Research (INPE), working on the calibration of bio-optical models to monitor water quality parameters using satellite observations.
+Currently, I’m pursuing a PhD in Biosystems Engineering at Mississippi State University, and I'm a member of the Geospatial Computing for Environmental Research Lab (GCER). My work focuses on aquatic remote sensing, computer vision and deep learning to advance water resource management.
+My research interests include remote sensing in aquatic environments, multi-sensor applications, computer vision, and deep learning modeling.
+Let’s dive in and explore the work I’m passionate about!
