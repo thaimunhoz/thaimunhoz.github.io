@@ -55,7 +55,7 @@ interests:
 education:
   - area: PhD Student in Biosystems Engineering
     institution: Mississippi State University
-    date_start: 2024/08
+    date_start: 2024-08
     summary: |
       NASA Early Career Research Fellow
     button:
@@ -80,16 +80,16 @@ work:
     company_name: Agrotools
     company_url: 'https://agrotools.com.br/en/'
     company_logo: 'assets/media/icons/agt_logo.png'
-    date_start: 2023/10
-    date_end: 2024/07
+    date_start: 2023-10
+    date_end: 2024-07
     summary: |
       Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
   - position: GIS Analyst
     company_name: Agrotools
     company_url: 'https://agrotools.com.br/en/'
     company_logo: 'assets/media/icons/agt_logo.png'
-    date_start: 2023/10
-    date_end: 2024/07
+    date_start: 2023-10
+    date_end: 2024-07
     summary: |
       Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
 
