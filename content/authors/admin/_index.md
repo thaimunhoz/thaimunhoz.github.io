@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tml411@msstate.edu'
     label: E-mail Me
-  - icon: assets/media/icons/gcer_logo.svg
+  - icon: custom/gcer_logo.svg
     url: https://www.gcerlab.com/
-  - icon: assets/media/icons/msu.svg
+  - icon: custom/msu.svg
     url: https://www.msstate.edu/
   - icon: brands/github
     url: https://github.com/thaimunhoz
@@ -43,7 +43,7 @@ profiles:
     url: https://www.linkedin.com/in/thainara-munhoz/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=DZhlmp8AAAAJ&hl=pt-BR
-  - icon: assets/media/icons/labisa.svg
+  - icon: custom/minilogo_labisa.svg
     url: https://www.dpi.inpe.br/labisa/en/
 
 interests:
@@ -63,83 +63,73 @@ education:
       url: 'https://www.gcerlab.com/'
   - area: M.S. in Remote Sensing
     institution: National Institute for Space Research
-    date_start: 2020
-    date_end: 2022
+    date_start: 2020-02-16
+    date_end: 2022-03-14
     summary: |
       Mapping of cyanobacteria in the Promissão Reservoir by multispectral and hyperspectral images
   - area: B.S. in Geomatics Engineering
     institution: São Paulo State University
-    date_start: 2020
-    date_end: 2016
+    date_start: 2020-12-12
+    date_end: 2016-02-02
 work:
   - position: Graduate Assistant
     company_name: Mississippi State University
     company_url: 'https://www.msstate.edu/'
-    company_logo: 'assets/media/icons/msu.svg'
+    company_logo: 'custom/msu.svg'
   - position: GIS Analyst
     company_name: Agrotools
     company_url: 'https://agrotools.com.br/en/'
-    company_logo: 'assets/media/icons/agt_logo.svg'
+    company_logo: 'custom/agt_logo.svg'
     date_start: 2023-10-01
     date_end: 2024-07-01
     summary: |
       Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
-  - position: GIS Analyst
-    company_name: Agrotools
-    company_url: 'https://agrotools.com.br/en/'
-    company_logo: 'assets/media/icons/agt_logo.svg'
-    date_start: 2023-10-01
-    date_end: 2024-07-01
+  - position: Crop Intelligence Analyst
+    company_name: Merx Agro
+    company_url: 'https://www.merxagri.com/'
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2023-09-01
     summary: |
-      Mapping and monitoring of agricultural crops using EO data. Spatial data analysis using remote sensing and geoprocessing techniques. Development of scripts in Python and GEE for automated geospatial and geostatistics modeling.
+      Spatial data analysis and data collection using remote sensing and geoprocessing techniques to manipulate, extract, locate and analyze geographic data. Create, develop and run scripts to perform automated and manual geospatial and statistical analysis on datasets using Python and Java-script (Google Earth Engine). Basic SQL queries in relational data management.
+  - position: Research Student
+    company_name: Instrumentation Laboratory for Aquatic Systems – LabISA
+    company_url: 'https://www.dpi.inpe.br/labisa/en/'
+    company_logo: 'custom/minilogo_labisa.svg'
+    date_start: 2021-02-01
+    date_end: 2023-03-01
+    summary: |
+      Planning and execution of field campaigns to collect radiometric and limnological data in continental water bodies; laboratory analysis of pigments; digital image processing; algorithm calibration. Member of the project: MAPAQUALI - Inland water quality monitoring by satellite.
+  - position: Research Student
+    company_name: National Research Council of Italy - Electromagnetic Sensing of the Environment (CNR-IREA)
+    company_url: 'https://www.cnr.it/en'
+    company_logo: 'custom/CNR.svg'
+    date_start: 2022-06-01
+    date_end: 2022-12-01
+    summary: |
+      Development/calibration of algorithms for estimating water quality parameters; digital image processing; development of Python algorithms for process automation; hyperspectral data processing.
+  - position: Research Student
+    company_name: University of New Brunswick
+    company_url: 'https://www.unb.ca/'
+    company_logo: 'custom/unb.svg'
+    date_start: 2018-12-01
+    date_end: 2019-03-01
+    summary: |
+      Evaluation of different models to correct atmospheric effects on the GNSS signal; Training to use GAPS software (GPS Analysis and Positioning Software). 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+Honours and Awards:
+  - name: Crea-SP Professional Training Award 2020
+    description: Outstanding award in the Cartographic Engineering course.
+  - name: AGU Fall Meeting Travel Grant 2020
+    description: Article selected and awarded through financial support.
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Training:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
