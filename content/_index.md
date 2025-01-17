@@ -15,18 +15,29 @@ sections:
       username: admin
       text: ""
     design:
-      css_class: white
+      css_class: light
       background:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: edited_2.jpg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -36,6 +47,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
 ---
