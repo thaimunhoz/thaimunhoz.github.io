@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: white
+  theme_default: light
 
 # SEO
 marketing:
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Thainara Lima"
 
 # Site footer
 footer:
