@@ -109,7 +109,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-Honours and Awards:
+awards:
   - name: Crea-SP Professional Training Award 2020
     description: Outstanding award in the Cartographic Engineering course.
   - name: AGU Fall Meeting Travel Grant 2020
