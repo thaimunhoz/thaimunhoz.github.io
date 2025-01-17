@@ -20,7 +20,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: sand-sea-watercolor-texture-background.jpg
           filters:
             brightness: 1.0
           size: cover
@@ -29,17 +29,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
