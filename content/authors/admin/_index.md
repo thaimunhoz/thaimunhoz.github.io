@@ -29,18 +29,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tml411@msstate.edu'
     label: E-mail Me
-  - icon: custom/gcer_logo.svg
-    url: https://www.gcerlab.com/
-  - icon: custom/msu.svg
-    url: https://www.msstate.edu/
   - icon: brands/github
     url: https://github.com/thaimunhoz
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/thainara-munhoz/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=DZhlmp8AAAAJ&hl=pt-BR
-  - icon: custom/minilogo_labisa.svg
-    url: https://www.dpi.inpe.br/labisa/en/
 
 interests:
   - Satellite image processing
