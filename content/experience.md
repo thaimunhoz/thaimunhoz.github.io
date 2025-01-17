@@ -22,7 +22,7 @@ sections:
     content:
       title: Honours and Awards
       username: admin
-  - block: resume-Training
+  - block: resume-experience
     content:
       title: Training
       username: admin
