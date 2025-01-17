@@ -140,12 +140,6 @@ awards:
     summary: Outstanding award in the Cartographic Engineering course.
   - title: AGU Fall Meeting Travel Grant 2020
     summary: Article selected and awarded through financial support.
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'

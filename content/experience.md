@@ -20,10 +20,6 @@ sections:
       is_education_first: false
   - block: resume-awards
     content:
-      title: Training
-      username: admin
-  - block: resume-awards
-    content:
       title: Awards
       username: admin
 ---
