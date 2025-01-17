@@ -20,13 +20,6 @@ sections:
       is_education_first: false
   - block: resume-awards
     content:
-      title: Honours and Awards
+      title: Awards and Training
       username: admin
-  - block: resume-experience
-    content:
-      title: Training
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
 ---

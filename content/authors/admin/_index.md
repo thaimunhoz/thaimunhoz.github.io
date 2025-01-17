@@ -136,16 +136,10 @@ training:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 awards:
-  - name: Crea-SP Professional Training Award 2020
-    description: Outstanding award in the Cartographic Engineering course.
-  - name: AGU Fall Meeting Travel Grant 2020
-    description: Article selected and awarded through financial support.
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Training:
+  - title: Crea-SP Professional Training Award 2020
+    summary: Outstanding award in the Cartographic Engineering course.
+  - title: AGU Fall Meeting Travel Grant 2020
+    summary: Article selected and awarded through financial support.
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
